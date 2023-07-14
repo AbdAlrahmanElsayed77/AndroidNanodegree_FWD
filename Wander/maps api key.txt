@@ -1,0 +1,19 @@
+
+الموقع عشان اجيب key
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=sha-1key + %3B + pakagename
+
+or 
+https://console.cloud.google.com/apis/credentials?project=wender-362414
+
+
+
+
+
+define local periority --> https://stackoverflow.com/questions/71541688/defining-properties-in-local-properties-file-in-android-studio
+
+
+
+grt sha-1 --> https://www.youtube.com/watch?v=CwtqxIH07Gk
+
+
